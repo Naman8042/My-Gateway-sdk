@@ -1,4 +1,4 @@
-# 🚀 CryptoPay – Crypto Payment Gateway SDK
+Crypto Payment Gateway SDK
 
 A simple way for merchants to **accept crypto payments** on-chain using **Next.js, wagmi, viem, react-query, and Solidity smart contracts**.  
 This SDK provides ready-to-use hooks like `usePay`, `useWithdraw`, and `useMerchantBalance` for quick integration.
